@@ -1,0 +1,79 @@
+/*fonts*/
+/*font-family: 'PT Sans', sans-serif;*/
+
+body{
+	font-family: 'PT Sans', sans-serif;
+}
+
+/*header start*/
+
+.header{
+	padding: 10px 0;
+	background-color: #fcdb00;
+}
+.menu{}
+.logo{}
+.cid{}
+.cid ul li{
+	margin-right: 80px;
+}
+.fa-bars{
+	font-size: 40px;
+}
+.cid ul li a{
+	font-size: 22px;
+	font-weight: 700;
+	color: black;
+	transition: .3s;
+}
+.cid ul li a:hover{
+	color: white;
+}
+.cid ul li:last-child{
+	margin-right: 0 !important;
+}
+
+/*header end*/
+
+
+
+
+/*slider start*/
+.slider{
+	background-color: #fcdb00;
+	padding-bottom: 100px;
+}
+.s-text{
+	margin-top: 70px;
+}
+.s-h1{
+	margin-bottom: 20px;
+	font-size: 40px;
+	font-weight: 700;
+}
+.s-h4{
+	margin-bottom: 20px;
+	font-size: 27px;
+}
+.s-p{
+	margin-bottom: 20px;
+	color: #555555;
+	letter-spacing: 1px;
+}
+.s-icon{
+	font-size: 40px;
+}
+.s-icon li i{
+	margin-right: 30px;
+}
+.s-img{}
+.carousel-indicators {
+    bottom: -80px;
+}
+.carousel-indicators li {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+
+/*slider end*/
